@@ -1,7 +1,5 @@
-from Stock import Stock
 import re
 import ssl
-import random
 import csv
 from bs4 import BeautifulSoup
 import requests
